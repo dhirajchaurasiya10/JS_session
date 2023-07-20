@@ -1,0 +1,20 @@
+.city p{                            /* esle chai city ko vitra 
+    ko p tag lai matra select garera style grxa
+    */
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}  
+
+p{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    border: 2px solid red;
+    border-radius: 20px;
+    width: 100px;
+}
